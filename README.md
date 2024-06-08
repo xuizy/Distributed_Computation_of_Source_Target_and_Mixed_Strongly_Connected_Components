@@ -23,8 +23,8 @@ This repository contains a centralized implementation of the algorithm described
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/scc-distributed.git](https://github.com/xuizy/Distributed_Computation_of_Source_Target_and_Mixed_Strongly_Connected_Components/tree/main)
-    cd scc-distributed
+    git clone https://github.com/xuizy/Distributed_Computation_of_Source_Target_and_Mixed_Strongly_Connected_Components/tree/main
+    cd Distributed_Computation_of_Source_Target_and_Mixed_Strongly_Connected_Components
     ```
 
 2. Install the required dependencies:
