@@ -2,7 +2,11 @@
 
 ## Overview
 
-This repository contains a centralized implementation of the algorithm described in the paper: **"Distributed Computation of Source, Target, and Mixed Strongly Connected Components in Multi-Agent Systems"**. This paper presents a method for computing the source SCCs, target SCCs, and the mixed SCCs in a distributed fashion, leveraging the decentralized nature of distributed systems to efficiently identify SCCs within large-scale graphs.
+This repository contains a centralized implementation of the algorithm described in the paper: **"Distributed Computation of Source, Target, and Mixed Strongly Connected Components in Multi-Agent Systems"**. This paper presents a method for computing the source SCCs, target SCCs, and the mixed SCCs in a distributed fashion, leveraging the decentralized nature of distributed systems to efficiently identify SCCs within large-scale graphs. 
+
+To use this code, please cite the following:
+* Reed, E. A., Ramos, G., Bogdan, P., & Pequito, S. (2022). *A scalable distributed dynamical systems approach to learn the strongly connected components and diameter of networks*. IEEE Transactions on Automatic Control, 68(5), 3099-3106.
+* Ramos, G., & Pequito, S. (2024). *Distributed Computation of Source, Target, and Mixed Strongly Connected Components in Multi-Agent Systems*. 16th International Conference on Automatic Control and Soft-Computing CONTROLO'2024: book of abstracts.
 
 ## Keywords
 
