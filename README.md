@@ -48,8 +48,8 @@ We welcome contributions to this project. If you have suggestions for improvemen
 
 ## Authors
 
-Guilherme Ramos
-Sérgio Pequito
+* Guilherme Ramos
+* Sérgio Pequito
 
 ## License
 
